@@ -1,6 +1,6 @@
 {
     "name": "n8n-nodes-maxun",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "description": "Maxun node for n8n - Web scraping and data extraction made easy.",
     "license": "MIT",
     "homepage": "https://maxun.dev",
