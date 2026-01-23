@@ -1,9 +1,9 @@
 {
     "name": "n8n-nodes-maxun",
-    "version": "0.1.0",
-    "description": "n8n community node for Maxun - No-code web data extraction and scraping automation",
+    "version": "0.0.1",
+    "description": "n8n Community node for Maxun - The No Code Web Data Access Layer For AI",
     "license": "MIT",
-    "homepage": "https://getmaxun.com",
+    "homepage": "https://maxun.dev",
     "keywords": [
         "n8n-community-node-package",
         "web scraping",
@@ -15,7 +15,7 @@
     ],
     "author": {
         "name": "Maxun",
-        "email": "support@getmaxun.com"
+        "email": "support@maxun.dev"
     },
     "repository": {
         "type": "git",
