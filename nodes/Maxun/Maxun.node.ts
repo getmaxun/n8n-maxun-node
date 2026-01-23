@@ -7,7 +7,7 @@ export class Maxun implements INodeType {
 	description: INodeTypeDescription = {
 		displayName: 'Maxun',
 		name: 'maxun',
-		icon: 'file:../../icons/maxun.png',
+		icon: 'file:maxun.svg',
 		group: ['transform'],
 		version: 1,
 		subtitle: '={{$parameter["operation"] + ": " + $parameter["resource"]}}',

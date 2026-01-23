@@ -11,7 +11,7 @@ export class MaxunApi implements ICredentialType {
 
 	displayName = 'Maxun API';
 
-	icon: Icon = 'file:../icons/maxun.png';
+	icon: Icon = 'file:../icons/maxun.svg';
 
 	documentationUrl = 'https://docs.getmaxun.com/api';
 

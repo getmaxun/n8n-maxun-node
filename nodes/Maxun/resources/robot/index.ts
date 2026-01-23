@@ -51,10 +51,10 @@ export const robotDescription: INodeProperties[] = [
 				},
 			},
 			{
-				name: 'Get All',
+				name: 'Get Many',
 				value: 'getAll',
-				action: 'Get all robots',
-				description: 'Get all robots for your account',
+				action: 'Get many robots',
+				description: 'Get many robots for your account',
 				routing: {
 					request: {
 						method: 'GET',

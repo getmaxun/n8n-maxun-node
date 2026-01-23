@@ -40,10 +40,10 @@ export const runDescription: INodeProperties[] = [
 				},
 			},
 			{
-				name: 'Get All',
+				name: 'Get Many',
 				value: 'getAll',
-				action: 'Get all runs for a robot',
-				description: 'Get all runs for a robot',
+				action: 'Get many runs for a robot',
+				description: 'Get many runs for a robot',
 				routing: {
 					request: {
 						method: 'GET',
