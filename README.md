@@ -1,6 +1,6 @@
 # n8n-nodes-maxun
 
-This is an n8n community node for [Maxun](https://getmaxun.com) - a no-code web data extraction and scraping automation platform.
+This is an n8n community node for [Maxun](https://maxun.dev) - a no-code web data extraction and scraping automation platform.
 
 [n8n](https://n8n.io/) is a [fair-code licensed](https://docs.n8n.io/reference/license/) workflow automation platform.
 
@@ -32,7 +32,7 @@ npm install n8n-nodes-maxun
 
 To use this node, you need a Maxun API key:
 
-1. Log in to your [Maxun dashboard](https://app.getmaxun.com)
+1. Log in to your [Maxun dashboard](https://app.maxun.dev)
 2. Go to **Settings** > **API Keys**
 3. Create a new API key
 4. Copy the API key and use it in the n8n credentials
@@ -69,8 +69,8 @@ Here's a simple workflow example:
 
 ## Resources
 
-- [Maxun Website](https://getmaxun.com)
-- [Maxun Documentation](https://docs.getmaxun.com)
+- [Maxun Website](https://maxun.dev)
+- [Maxun Documentation](https://docs.maxun.dev)
 - [n8n Community Nodes Documentation](https://docs.n8n.io/integrations/community-nodes/)
 
 ## License
