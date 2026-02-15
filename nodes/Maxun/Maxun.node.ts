@@ -25,7 +25,7 @@ export class Maxun implements INodeType {
 			},
 		],
 		requestDefaults: {
-			baseURL: 'https://app.maxun.dev',
+			baseURL: '={{($credentials.baseUrl || "https://app.maxun.dev").replace(/\\/+$/, "")}}',
 			headers: {
 				Accept: 'application/json',
 				'Content-Type': 'application/json',
