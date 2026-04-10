@@ -13,7 +13,7 @@ export class MaxunApi implements ICredentialType {
 
 	icon: Icon = 'file:../icons/maxun.svg';
 
-	documentationUrl = 'https://docs.getmaxun.com/api';
+	documentationUrl = 'https://docs.maxun.dev';
 
 	properties: INodeProperties[] = [
 		{
