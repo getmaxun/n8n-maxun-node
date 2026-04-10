@@ -8,8 +8,6 @@ export async function getRobots(
 	this: ILoadOptionsFunctions,
 	filter?: string,
 ): Promise<INodeListSearchResult> {
-	// Credentials no longer contain baseUrl
-	// const credentials = await this.getCredentials('maxunApi');
 	const baseUrl = 'https://app.maxun.dev';
 
 	const response = await this.helpers.httpRequestWithAuthentication.call(this, 'maxunApi', {
